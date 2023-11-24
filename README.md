@@ -6,7 +6,8 @@ O exercício foi criar duas entidades (produto e categoria), exibir na tela do *
 
 Foram utilizadas ferramentas como Springboot e Postman.
 
-Objetivos e aprendizados
+
+Objetivos e aprendizados:
 - Criar um simples projeto Java web no Spring Boot e Maven
 - Introdução prática a injeção de dependência no Spring Boot
 - Introdução prática a REST / web services
